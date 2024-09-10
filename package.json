@@ -42,5 +42,9 @@
   },
   "overrides": {
     "bcrypt": "npm:bcryptjs@latest"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": []
 }
